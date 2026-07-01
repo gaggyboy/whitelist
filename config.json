@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "kill_switch": false,
+  "min_version": "1.0.0",
+  "latest_version": "1.0.0",
+  "download_url": "https://github.com/gaggyboy/whitelist/releases/latest",
+  "title": "Guncelleme Gerekli",
+  "message": "Yeni surum cikti. Lutfen guncel modu indirin."
+}
